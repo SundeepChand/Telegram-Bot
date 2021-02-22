@@ -1,0 +1,5 @@
+myvenv
+.vscode
+*.pyc
+echo_bot.py
+gnewsclient_test.py
